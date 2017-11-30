@@ -17,7 +17,7 @@ import com.android.volley.toolbox.Volley;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/*This is a coment */
 public class MainActivity extends AppCompatActivity {
     EditText editText;
     Button btn;
